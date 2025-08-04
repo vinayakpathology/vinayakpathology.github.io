@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://vinayakpathology.github.io/sitemap.xml
+
+# Allow important pages
+Allow: /index.html
+Allow: /about.html
+Allow: /privacy-policy.html
+Allow: /disclaimer.html
+Allow: /terms-conditions.html
+Allow: /refund-policy.html
+
+# Allow CSS and JS files
+Allow: /css/
+Allow: /js/
+Allow: /images/
+
+# Disallow any temp or system files
+Disallow: /*.tmp
+Disallow: /.*
