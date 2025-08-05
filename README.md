@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vinayak Pathology Laboratory Website
 
 A modern, responsive website for Vinayak Pathology Laboratory located in Bhatpore, Surat. This website provides comprehensive information about diagnostic services, online test booking, and laboratory facilities.
@@ -263,3 +264,6 @@ This website is created for Vinayak Pathology Laboratory. All rights reserved.
 
 **Vinayak Pathology Laboratory** - Leading diagnostic center in Bhatpore, Surat
 *Accurate Results • Timely Reports • Professional Service*
+=======
+# vinayakpathology.github.io
+>>>>>>> 556fef7a3e0d221be6b7e3754bc8fcfeccb04819
